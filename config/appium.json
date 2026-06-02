@@ -1,0 +1,7 @@
+{
+  "url": "http://localhost:4723",
+  "platform": "Android",
+  "device": "Android",
+  "app_package": "com.glazero.android",
+  "app_activity": "com.glazero.android.SplashActivity"
+}

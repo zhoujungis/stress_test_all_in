@@ -1,0 +1,12 @@
+{
+  "cpu_port": "",
+  "cpu_baudrate": 115200,
+  "wifi_port": "",
+  "wifi_baudrate": 115200,
+  "sleep_cmd": "AT+SLEEP",
+  "wake_method": "RTS",
+  "wake_cmd": "AT",
+  "sleep_duration": 5.0,
+  "wake_delay": 2.0,
+  "loops": 100
+}

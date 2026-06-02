@@ -1,0 +1,12 @@
+{
+  "cpu_port": "",
+  "cpu_baudrate": 115200,
+  "wifi_port": "",
+  "wifi_baudrate": 115200,
+  "device_name": "",
+  "stream_wait": 20.0,
+  "cooldown": 40.0,
+  "wired_device": false,
+  "cold_start": false,
+  "loops": 50
+}

@@ -1,0 +1,12 @@
+{
+  "cpu_port": "",
+  "cpu_baudrate": 115200,
+  "wifi_port": "",
+  "wifi_baudrate": 115200,
+  "device_sns": "SN001\nSN002",
+  "device_names": "Device1\nDevice2",
+  "wifi_ssid": "",
+  "wifi_password": "",
+  "wait": 5.0,
+  "loops": 30
+}

@@ -1,0 +1,4 @@
+PyQt6>=6.5.0
+pyserial>=3.5
+Appium-Python-Client>=3.0
+requests>=2.28

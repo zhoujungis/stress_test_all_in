@@ -1,0 +1,10 @@
+{
+  "cpu_port": "",
+  "cpu_baudrate": 115200,
+  "wifi_port": "",
+  "wifi_baudrate": 115200,
+  "reset_element": "//*[@text='Reset']",
+  "confirm_element": "//*[@text='OK']",
+  "app_wait": 10.0,
+  "loops": 50
+}

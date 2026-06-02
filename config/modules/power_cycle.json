@@ -1,0 +1,11 @@
+{
+  "cpu_port": "",
+  "cpu_baudrate": 115200,
+  "wifi_port": "",
+  "wifi_baudrate": 115200,
+  "relay_channel": 1,
+  "open_duration": 1.0,
+  "close_duration": 2.0,
+  "test_count": 100,
+  "boot_wait": 5.0
+}
